@@ -100,4 +100,4 @@ If using or adapting this code, cite the associated manuscript and the Registere
 
 ## Licence
 
-No code licence is granted by this staging repository until the authors select and add a licence. Dataset terms are governed separately by the dataset provider.
+MIT License
