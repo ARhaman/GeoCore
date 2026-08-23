@@ -1,4 +1,4 @@
-# Leakage-Safe Mineral Semantic Segmentation in Registered Polarized-Light Thin Sections
+# Mineral Semantic Segmentation in Registered Polarized-Light Thin Sections
 
 This repository contains the reproducibility code for a pixel-level, eight-mineral semantic-segmentation study using the **Registered Angular Mineral Segmentation Dataset**. The final model is a validation-calibrated probability ensemble of a pretrained ResNet-34 U-Net (**B7**) and pretrained DeepLabV3–ResNet50 (**B8**). The central methodological safeguard is that all eight registered angular views of one thin-section source remain in the same partition.
 
