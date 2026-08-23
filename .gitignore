@@ -1,0 +1,23 @@
+# Data and trained artifacts
+data/
+artifacts/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Manuscript working copies and Office locks
+*.docx
+*.pptx
+*.pdf
+~$*
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db

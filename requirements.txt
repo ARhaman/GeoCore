@@ -1,0 +1,10 @@
+numpy
+pandas
+pillow
+matplotlib
+openpyxl
+python-pptx
+albumentations
+segmentation-models-pytorch
+torch
+torchvision

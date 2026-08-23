@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated chapter and dataset."
+title: "Leakage-Safe Mineral Semantic Segmentation in Registered Polarized-Light Thin Sections"
+authors:
+  - family-names: "Al-Fakih"
+    given-names: "Abdulrahman"
+  - family-names: "Koeshidayatullah"
+    given-names: "Ardiansyah"
+  - family-names: "Sariah"
+    given-names: "Nabil"
+  - family-names: "Kaka"
+    given-names: "SanLinn I."
+version: "0.1.0"
+date-released: "2026-08-23"
+url: "https://github.com/REPLACE-WITH-OWNER/mineral-segmentation-source-level-ensemble"
+preferred-citation:
+  type: chapter
+  title: "Leakage-Safe Mineral Semantic Segmentation in Registered Polarized-Light Thin-Section Images"
+  notes: "Update with final book-chapter DOI after publication."
